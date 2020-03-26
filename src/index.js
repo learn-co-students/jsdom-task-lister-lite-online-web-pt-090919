@@ -52,8 +52,6 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
 
-    // ABSTRACTION GOES BELOW
-
     function resetField() {
       input.value = "";
     }
